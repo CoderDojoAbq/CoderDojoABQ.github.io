@@ -1,5 +1,5 @@
-# CoderDojoZH.github.io
+# CoderDojoABQ.github.io
 
-## some inspiration
+## Based on
 
-- http://codeclub.heig-vd.ch/
+- CoderDojoZH.github.io
